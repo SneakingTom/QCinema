@@ -1,0 +1,6 @@
+# Ignores the executables
+QCinema/*.exe
+
+# Ignores the text files
+
+QCinema/*.txt
