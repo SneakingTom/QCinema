@@ -1,0 +1,39 @@
+=============================
+       QCinema RECEIPT    
+=============================
+Tickets Purchased:
+Titanic    : 2
+King Kong  : 0
+2012       : 0
+
+Total Tickets: 1
+Total Amount : P500.00
+Status   : CONFIRMED
+=============================
+
+=============================
+       QCinema RECEIPT    
+=============================
+Tickets Purchased:
+Titanic    : 6
+King Kong  : 0
+2012       : 0
+
+Total Tickets: 1
+Total Amount : P500.00
+Status   : CONFIRMED
+=============================
+
+=============================
+       QCinema RECEIPT    
+=============================
+Tickets Purchased:
+Titanic    : 6
+King Kong  : 0
+2012       : 0
+
+Total Tickets: 1
+Total Amount : P500.00
+Status   : CONFIRMED
+=============================
+

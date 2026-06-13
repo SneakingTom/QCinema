@@ -1,0 +1,7 @@
+=============================
+      QCinema SALES       
+=============================
+Titanic    : 6 tickets sold
+
+Titanic    : P3000.00 total tickets sales
+=============================

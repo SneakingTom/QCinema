@@ -1,0 +1,11 @@
+=============================
+      QCinema SALES       
+=============================
+Titanic    : 0 tickets sold
+King Kong  : 18 tickets sold
+2012       : 0 tickets sold
+
+Titanic    : P0.00 total tickets sales
+King Kong  : P6300.00 total tickets sales
+2012       : P0.00 total tickets sales
+=============================

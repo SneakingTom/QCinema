@@ -1,0 +1,7 @@
+=============================
+      QCinema SALES       
+=============================
+King Kong  : 18 tickets sold
+
+King Kong  : P6300.00 total tickets sales
+=============================
